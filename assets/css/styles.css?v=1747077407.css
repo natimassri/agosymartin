@@ -576,3 +576,19 @@ section.gracias p{
 
 
 }
+
+/* Footer */
+section.footer{
+  text-align: center;
+  padding: 10px 0;
+  background-color: #666;
+}
+
+section.footer p{
+  text-align: center;
+  color: white;
+  font-size: 10px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
